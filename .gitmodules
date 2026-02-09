@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/youngclement/manga-clement-ai.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/youngclement/backend-manga-generator.git
