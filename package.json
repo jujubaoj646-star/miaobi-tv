@@ -1,0 +1,12 @@
+{
+  "name": "miaobi-tv",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "start": "cd frontend && npm start"
+  },
+  "dependencies": {
+    "next": "^16.1.0-canary.19"
+  }
+}
